@@ -1,0 +1,2 @@
+# rules
+my personal constitution
